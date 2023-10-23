@@ -1,2 +1,2 @@
-# basic-css-js-project-countdown
+# basic html-css-js implementation
 
