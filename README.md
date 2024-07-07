@@ -1,2 +1,2 @@
-basic html-css-js implementation
+# Count Down JS
 
